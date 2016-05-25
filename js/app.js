@@ -154,6 +154,5 @@ function resetVariables(){
 	userGuess = '';
 	userFeedback = 'Make your Guess!';
 }
-  	
 
 
